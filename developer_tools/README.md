@@ -1,1 +1,1 @@
-This folder requires the responsiveness for different screens
+Developer tools
