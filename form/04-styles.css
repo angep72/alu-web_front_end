@@ -20,7 +20,7 @@ input[type="text"], input[type="email"], textarea {
     position: relative;
     width: 100%;
     padding: 1.2rem;
-    line-height: 1;
+    line-height: 1 !important;
     border: 0.1rem solid var(--color-black);
     background-color: var(--color-white);
     box-shadow: none;
