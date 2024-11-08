@@ -1,0 +1,1 @@
+This file contains the functions that shows more clearly how function is defined
