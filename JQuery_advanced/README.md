@@ -1,0 +1,1 @@
+This file cleary describes how jquery works
